@@ -11,7 +11,21 @@
     "@xstate/scxml": "0.2.1",
     "@xstate/test": "0.1.0",
     "@xstate/viz": "0.1.0",
-    "@xstate/viz-example": "1.0.0"
+    "@xstate/viz-example": "1.0.0",
+    "@xstate/vue": "0.1.1"
   },
-  "changesets": []
+  "changesets": [
+    "eighty-coins-tease",
+    "five-ravens-own",
+    "green-apes-heal",
+    "lucky-bulldogs-march",
+    "lucky-vans-compare",
+    "rare-phones-whisper",
+    "shiny-apes-press",
+    "shy-walls-develop",
+    "sixty-hornets-allow",
+    "slow-apples-dance",
+    "wise-wombats-invite",
+    "witty-hounds-invent"
+  ]
 }

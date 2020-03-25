@@ -1,5 +1,11 @@
 # @xstate/fsm
 
+## 1.4.0
+
+### Minor Changes
+
+- [`3d50808`](https://github.com/davidkpiano/xstate/commit/3d50808ac68b1f52de49969e5e83b2c341fda525) [#1082](https://github.com/davidkpiano/xstate/pull/1082) Thanks [@davidkpiano](https://github.com/davidkpiano)! - The `.state` property is now exposed on the service returned from `interpret(machine)`, which is a getter that returns the latest state of the machine.
+
 ## 1.3.0
 
 ### Minor Changes
